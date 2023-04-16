@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: purple 
+Favorite food: pizza
+Favorite musician/band: nothing but thieves 
+Favorite movie: lord of the rings
+Requested grade in the course: 101x
